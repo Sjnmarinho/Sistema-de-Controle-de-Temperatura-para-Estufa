@@ -1,6 +1,6 @@
 // Projeto: Sistema de Controle de Temperatura para Estufa
 // Autor: Sebastião Marinho
-// Data: 10/11/2025
+// Data: 10/11/2025.
 
 // Definição dos pinos
 const int SENSOR_TEMP = A0;    // Pino do sensor de temperatura
